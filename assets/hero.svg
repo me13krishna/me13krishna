@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="24" x2="1160" y2="352" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071A14"/>
+      <stop offset=".56" stop-color="#0B2A21"/>
+      <stop offset="1" stop-color="#143D38"/>
+    </linearGradient>
+    <linearGradient id="orb" x1="820" y1="74" x2="1090" y2="304" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9ADBC9" stop-opacity=".88"/>
+      <stop offset=".52" stop-color="#48BFA3" stop-opacity=".54"/>
+      <stop offset="1" stop-color="#DCE8A8" stop-opacity=".2"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="786" y1="68" x2="1120" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9ADBC9" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#DCE8A8" stop-opacity=".18"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#F5F2E8" stroke-opacity=".045"/>
+    </pattern>
+    <filter id="blur" x="772" y="39" width="400" height="338" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="977" cy="202" r="124" fill="#48BFA3" fill-opacity=".22" filter="url(#blur)"/>
+  <path d="M865 83c66-37 143-16 176 37s10 122-43 162-138 33-182-15-24-148 49-184Z" fill="url(#orb)" fill-opacity=".62"/>
+  <path d="M830 188c20-60 74-102 138-103 63-1 114 41 137 99M845 238c31 48 83 75 140 71 57-4 103-39 125-91M911 81c-29 46-42 93-39 141 3 49 22 90 57 124M1017 79c28 45 42 93 39 141-3 49-22 90-57 124" stroke="url(#stroke)" stroke-opacity=".6"/>
+  <circle cx="968" cy="194" r="42" fill="#071A14" fill-opacity=".72" stroke="#DCE8A8" stroke-opacity=".72"/>
+  <path d="M951 181h35M951 194h25M951 207h31" stroke="#F5F2E8" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="850" cy="117" r="4" fill="#DCE8A8"/>
+  <circle cx="1085" cy="137" r="5" fill="#9ADBC9"/>
+  <circle cx="1064" cy="286" r="4" fill="#DCE8A8"/>
+  <circle cx="875" cy="278" r="3" fill="#F5F2E8" fill-opacity=".75"/>
+  <path d="M68 68h34M68 68v34" stroke="#48BFA3" stroke-width="2"/>
+  <text x="68" y="118" fill="#9ADBC9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="3">SOFTWARE ENGINEER  ·  AI BUILDER</text>
+  <text x="64" y="190" fill="#FAFAF5" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="60" font-weight="650" letter-spacing="-2">Krishna Mishra</text>
+  <text x="68" y="230" fill="#DCE8A8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="23" font-weight="500">Building intelligent software for real-world problems.</text>
+  <text x="68" y="281" fill="#F5F2E8" fill-opacity=".65" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1.3">CS UNDERGRADUATE  /  MITAOE  /  PUNE, INDIA</text>
+  <path d="M68 314h134" stroke="#48BFA3" stroke-width="2"/>
+  <circle cx="216" cy="314" r="3" fill="#DCE8A8"/>
+</svg>

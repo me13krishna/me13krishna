@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" fill="none">
+  <defs>
+    <linearGradient id="paper" x1="8" y1="0" x2="1190" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5F2E8"/>
+      <stop offset="1" stop-color="#FAFAF5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="190" rx="20" fill="url(#paper)"/>
+  <path d="M48 48v94M48 48h24M48 142h24" stroke="#1F5C4D" stroke-width="2"/>
+  <circle cx="1120" cy="57" r="20" stroke="#48BFA3" stroke-opacity=".7"/>
+  <circle cx="1120" cy="57" r="5" fill="#DCE8A8"/>
+  <path d="M1091 131c19-19 39-28 62-28" stroke="#1F5C4D" stroke-opacity=".32"/>
+  <text x="91" y="66" fill="#1F5C4D" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2.6">A THOUGHTFUL APPROACH TO ENGINEERING</text>
+  <text x="91" y="116" fill="#071A14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="33" font-weight="560" letter-spacing="-.7">“I like turning complicated ideas into software that feels simple.”</text>
+</svg>
