@@ -125,12 +125,11 @@ Generative AI · Agentic systems · AI-powered products · Production-ready soft
 
 <div align="center">
 
-<a href="https://github.com/me13krishna"><img height="150" src="https://github-readme-stats.vercel.app/api?username=me13krishna&show_icons=true&hide_border=true&bg_color=0B2A21&title_color=9ADBC9&text_color=F5F2E8&icon_color=48BFA3&hide_title=true" alt="GitHub activity summary" /></a>
-<a href="https://github.com/me13krishna"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me13krishna&layout=compact&hide_border=true&bg_color=0B2A21&title_color=9ADBC9&text_color=F5F2E8" alt="Most-used programming languages" /></a>
+<a href="https://github.com/me13krishna"><img src="assets/github-stats.svg" alt="Live GitHub contributions, repositories, stars, and followers, refreshed daily from GitHub." width="100%" /></a>
 
 <br />
 
-<img src="https://ghchart.rshah.org/143D38/me13krishna" alt="GitHub contribution chart" width="100%" />
+<a href="https://github.com/me13krishna"><img src="assets/github-contributions.svg" alt="GitHub contribution graph, refreshed daily from GitHub." width="100%" /></a>
 
 </div>
 
